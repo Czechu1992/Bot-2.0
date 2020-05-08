@@ -20,10 +20,10 @@ https://github.com/Czechu1992/Bot-2.0/tree/master/src/test/java
 
 https://system.mrugalski.pl/
 
-# In this project I am using: 
+## In this project I am using: 
 
 - IntelliJ IDEA Community Edition 2019.2.4 x64
-- Maven (All dependencies you can find in file pom.xml link: https://github.com/Czechu1992/Asta-zadania/blob/master/pom.xml)
+- Maven (All dependencies you can find in file pom.xml link: https://github.com/Czechu1992/Bot-2.0/blob/master/pom.xml)
 
 
 Write to me if you have a problem with the installation or you want to share your opinion
